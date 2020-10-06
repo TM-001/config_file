@@ -1,0 +1,11 @@
+* Config file
+
+** Directoy Structure
+.
+└── emacs                emacs config
+
+** Emacs
+1. open emacs enter eshell
+2. mv emacs.conf ~/.emacs
+3. maybe you need to comment font config and install some package.
+
